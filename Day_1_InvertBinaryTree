@@ -32,7 +32,7 @@ public:
 };
 
 
-/** This is the method_1 having run time 4ms */
+/** This is the method_2 having run time 4ms */
 /*
 class Solution{
     public:
